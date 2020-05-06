@@ -1,0 +1,36 @@
+{
+    "仿真环境-盘中":
+	{
+		"brokerID":"9999",
+        "brokerName":"仿真环境-盘中",
+        "AppID":"simnow_client_test",
+        "AuthCode":"0000000000000000",
+        "MarketFront":
+        {
+          "SIMNOW1":"180.168.146.187:10110",
+          "SIMNOW2":"180.168.146.187:10111",
+          "SIMNOW3":"218.202.237.33 :10112"
+        },
+        "TradeFront":
+        {
+          "SIMNOW1":"180.168.146.187:10100",
+          "SIMNOW2":"180.168.146.187:10101",
+          "SIMNOW3":"218.202.237.33 :10102"
+        }
+	},
+	"仿真环境-盘后":
+	{
+		"brokerID":"9999",
+        "brokerName":"仿真环境-盘后",
+        "AppID":"simnow_client_test",
+        "AuthCode":"0000000000000000",
+        "MarketFront":
+        {
+          "SIMNOW-7x24-1":"180.168.146.187:10131"
+        },
+        "TradeFront":
+        {
+          "SIMNOW-7x24-1":"180.168.146.187:10130"
+        }
+	}	
+ }
